@@ -6,7 +6,7 @@ gem 'sprockets'
 
 # Need to require sprockets-rails expicitly to get asset pipeline, at least untill we move to SASS
 # Pinning sprockets-rails to 2.3.3 so that everything doesn't blow up. It might be time to start thinking about webpack.
-gem 'sprockets-rails', '2.3.3'
+gem 'sprockets-rails', '3.2.2'
 # We need less-rails outside of the assets group so that assets will build in production
 gem 'less-rails'
 # We want non-digest versions of our assets for font-awesome
