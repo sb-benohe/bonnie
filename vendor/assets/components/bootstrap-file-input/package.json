@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/nandomoreirame/bootstrap-file-input#readme",
   "dependencies": {
-    "jquery": "~2.2.4"
+    "jquery": "~3.5.1"
   }
 }
