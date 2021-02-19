@@ -34,7 +34,7 @@ gem 'roo', '~> 2.7'
 gem 'oj' # Faster JSON
 gem 'apipie-rails'
 gem 'maruku' # enable Markup for API documentation
-gem 'doorkeeper', '~> 4.4.0'
+gem 'doorkeeper', '~> 5.5.0'
 gem "doorkeeper-mongodb", '~> 4.1.0'
 
 group :test, :development, :ci do
