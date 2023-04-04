@@ -79,7 +79,7 @@ group :assets do
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   gem 'therubyracer', :platforms => :ruby
 
-  gem 'uglifier', '~> 4.1.20'
+  gem 'uglifier', '~> 4.2.0'
 end
 
 gem 'foreman'
